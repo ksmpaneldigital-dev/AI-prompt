@@ -1,0 +1,6 @@
+{
+  "name": "AI Khmer Songwriter Pro",
+  "description": "Professional AI Song Lyrics & Music Style Generator for Khmer and bilingual music creators, featuring Suno AI prompt builders and music studio tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
